@@ -1,6 +1,7 @@
 # Donor Thank-You Automation (Make.com + Gemini)
 
 AI Tech Corps capstone, OptimaNova AI x The Knowledge House (Nov 2026)
+
 **My part:** I built the Phase 2 automation and led the build demo.
 
 > Practice client: Linden Street Community Partners, a made-up nonprofit used for training. Every donor, name, and number in this repo is made up.
